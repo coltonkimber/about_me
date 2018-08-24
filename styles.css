@@ -1,0 +1,66 @@
+h1 {
+    color: rgb(163, 235, 29);
+    font-size: 100px;
+
+}
+
+h4 {
+    color: white;
+    font-size: 20px;
+}
+
+
+h5 {
+    color: white;
+    font-size: 30px;
+    padding: 10px;
+}
+
+h6 {
+    color: white;
+    font-size: 20px;
+}
+
+.body {
+    background-image: url(./images/backdrop2.png);
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+
+.social_media {
+    height: 60px;
+    width: 60px;
+    padding: 7px;
+    background-color: white;
+}
+
+
+.table_boxes {
+    border: 5px solid #000000;
+    padding: 5px;
+    width: 700px;
+}
+
+
+.header {
+    
+    left: 5;
+    top: 5;
+    padding: 10px;
+    background-color: black;
+    width: 150px;
+}
+
+
+.nav {
+    padding:5px;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    padding: 7px;
+}
+
